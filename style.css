@@ -1,0 +1,39 @@
+body{
+    font-family: 'Arvo', serif;
+}
+/* top section paragraph */
+.topsectionp{
+    font-weight: 300px;
+font-size: 21px;
+}
+/* top section header  */
+.topsectionh{
+    font-weight: 700;
+line-height: 90px;
+font-size: 80px;
+color: white;
+font-family:'Didact Gothic',sans-serif;
+margin-bottom: 10px;
+width: 50%;
+}
+/* footer links */
+.footerlink{
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 30px;
+    padding: 10px 10px;
+
+}
+.footerlink:hover{
+    border:2px solid green;
+    border-radius: 10px;
+    font-weight: 50%;
+}
+/* second section */
+.secondsection{
+    height: 500px;
+}
+/* second section */
+.secondsection h2{
+    text-align: center;
+}
